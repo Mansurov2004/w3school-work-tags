@@ -1,0 +1,8 @@
+a:visited {
+    color: brown;
+}
+
+a:link {
+    color: brown;
+    text-decoration: none;
+}
